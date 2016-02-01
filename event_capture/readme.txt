@@ -12,7 +12,8 @@ Usage instructions:
    for processing video files. The included ffmpeg binary is intended to work
    on your Macintosh
  
-2. Copy the ".mov" video files to be processed into the "event_capture" folder
+2. Copy the ".mov" video files to be processed into the "event_capture" folder.
+   Do copy instead of move, because the scripts are dangerously buggy.
 
 3. Rename the .mov files to eliminate any characters that might be problematic.
    For example, quotes....
