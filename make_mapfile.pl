@@ -11,7 +11,7 @@ use File::Find;
 # This is useful when automated
 # and well-defined updates are needed
 # to a collection, for example with
-# the ItemUpdate tool.
+# the ItemImport tool.
 # 
 # Use the dspace export command to
 # export the collection.

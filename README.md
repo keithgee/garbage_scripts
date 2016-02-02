@@ -10,5 +10,5 @@ Contents:
                      CSV file for each item. Used for the Dark Archive.
 
 - make_mapfile.pl: Generate a DSpace mapfile based on an exported SAF
-                   collection. This is useful when trying to use ItemUpdate
+                   collection. This is useful when trying to use ItemImport
                    tools, but the mapfile is missing.   
