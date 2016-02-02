@@ -8,4 +8,7 @@ Contents:
                  
 - split_csv_file.py: a script to split a CSV file of metadata into one separate
                      CSV file for each item. Used for the Dark Archive.
-   
+
+- make_mapfile.pl: Generate a DSpace mapfile based on an exported SAF
+                   collection. This is useful when trying to use ItemUpdate
+                   tools, but the mapfile is missing.   
